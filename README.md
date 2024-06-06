@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá!! Eu sou a Jasmine 😁
 
-<!--
-**JasmineSantana/JasmineSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Hoje trabalho na Area de Qualidade
+- 📘 Estudando HTML/CSS e Swift
+- 😊 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<!-- Para melhorar o perfil acesse esse git: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
+<div>
+  <a href="https://github.com/JasmineSantana"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JasmineSantana&show_icons=true&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSantana&layout=compact&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Para incluir novos icones é só acessar esse site: https://devicon.dev/ -->
+<div style="display: inline_block"><br>
+<img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /><img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+ </div>
+
+##
