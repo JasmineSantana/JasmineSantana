@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Jasmine 😁
 
 - 💻 Hoje trabalho na Area de Qualidade
-- 📘 Estudando HTML/CSS e Swift
+- 📘 Estudando: Swift
 - 😊 Pronouns: ela/dela
 
 <!-- Para melhorar o perfil acesse esse git: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance -->
@@ -14,8 +14,6 @@
 <!--Para incluir novos icones é só acessar esse site: https://devicon.dev/ -->
 <div style="display: inline_block"><br>
 <img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-<img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /><img align="center" alt="Jas-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
- </div>
+</div>
 
 ##
